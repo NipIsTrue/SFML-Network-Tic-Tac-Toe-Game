@@ -1,0 +1,2 @@
+[2020-04-04.15:16:25]: Initializing Log
+[2020-04-04.15:16:29]: Client "wdr" connected to server from 127.0.0.1

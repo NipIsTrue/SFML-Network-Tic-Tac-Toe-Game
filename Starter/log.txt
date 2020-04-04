@@ -1,0 +1,5 @@
+[2020-04-04.15:16:29]: Initializing Log
+[2020-04-04.15:16:29]: Connecting to server at localhost on port 1010
+[2020-04-04.15:16:29]: Successfully connected to server
+[2020-04-04.15:16:32]: Error: could not find a match [Client.cpp:19]
+[2020-04-04.15:16:32]: Unexpected runtime error, exiting...

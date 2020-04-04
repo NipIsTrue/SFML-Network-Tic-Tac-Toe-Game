@@ -1,0 +1,15 @@
+[2020-04-01.18:19:00]: Initializing Log
+[2020-04-01.18:19:02]: Square [0, 0] selected
+[2020-04-01.18:19:02]: Square [1, 0] selected
+[2020-04-01.18:19:03]: Square [1, 1] selected
+[2020-04-01.18:19:03]: Square [1, 1] selected
+[2020-04-01.18:19:03]: Square [1, 1] selected
+[2020-04-01.18:19:03]: Square [1, 1] selected
+[2020-04-01.18:19:03]: Square [1, 1] selected
+[2020-04-01.18:19:04]: Square [2, 1] selected
+[2020-04-01.18:19:04]: Square [2, 2] selected
+[2020-04-01.18:19:04]: Square [1, 2] selected
+[2020-04-01.18:19:04]: Square [1, 2] selected
+[2020-04-01.18:19:05]: Square [1, 2] selected
+[2020-04-01.18:19:05]: Square [2, 2] selected
+[2020-04-01.18:19:07]: Closing Log
