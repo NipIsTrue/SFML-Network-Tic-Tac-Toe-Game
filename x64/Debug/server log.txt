@@ -1,0 +1,6 @@
+[2020-04-03.16:46:35]: Initializing Log
+[2020-04-03.16:46:38]: Client "dowd" connected to server from 127.0.0.1
+[2020-04-03.16:46:41]: Client "yee" connected to server from 127.0.0.1
+[2020-04-03.16:46:41]: Starting game between players "dowd" and "yee"
+[2020-04-03.16:46:41]: 0
+[2020-04-03.16:46:41]: Game between players "dowd" and "yee" ended

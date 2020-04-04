@@ -1,0 +1,7 @@
+[2020-04-03.16:46:41]: Initializing Log
+[2020-04-03.16:46:41]: Connecting to server at localhost on port 1010
+[2020-04-03.16:46:41]: Successfully connected to server
+[2020-04-03.16:46:41]: Opponent found!
+[2020-04-03.16:46:41]: You have been matched with "yee"
+[2020-04-03.16:46:41]: Your turn
+n
